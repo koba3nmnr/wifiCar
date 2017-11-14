@@ -4,7 +4,7 @@ Wifi Controlled Car Aruduino Sketch (ESP8266 ESP-WROOM-02)
 YouTube
 https://www.youtube.com/watch?v=sxLcQ3OFHZo
 
-WiFiチップESP8266搭載のWiFiモジュールEPS-WROOM-02でWiFiラジコンカーを作ってみた。
+WiFiチップESP8266搭載のWiFiモジュールEPS-WROOM-02でWiFiラジコンカーを作ってみた。<BR>
 WiFiラジコンの特徴
 ・スマホのWebブラウザで操作する。
 　従ってAppストアやPlayストアからアプリをダウンロードする必要なし。
