@@ -5,7 +5,7 @@ YouTube
 https://www.youtube.com/watch?v=sxLcQ3OFHZo
 
 WiFiチップESP8266搭載のWiFiモジュールEPS-WROOM-02でWiFiラジコンカーを作ってみた。<BR>
-##WiFiラジコンの特徴<BR>
+## WiFiラジコンの特徴<BR>
 ・スマホのWebブラウザで操作する。<BR>
 　従ってAppストアやPlayストアからアプリをダウンロードする必要なし。<BR>
 　（開発者としては、面倒な審査を受けなくてよい。）<BR>
