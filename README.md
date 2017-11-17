@@ -31,12 +31,12 @@ WiFiチップESP8266搭載のWiFiモジュールEPS-WROOM-02でWiFiラジコン�
 　ステアリング系はサーボモーターで制御するように改造する<BR>
 - バッテリーはBUFFALOの2600mA 2.0A BSMPB2602P1BK（Amazonで1600円)
 - ESP-WROOM-02（秋月で650円）
-- 三端子レギュレーター3.3V500mA（秋月で100円）<BR>
-- ＵＳＢシリアル変換モジュール(秋月で600円）<BR>
-- フォトカプラ(TLP785)<BR>
-- モータドライバ(TA7291P)<BR>
-- サーボモータ(SG-90)<BR>
-- LED、コンデンサー、抵抗、タクトスイッチ、USBケーブル<BR>
+- 三端子レギュレーター3.3V500mA（秋月で100円）
+- ＵＳＢシリアル変換モジュール(秋月で600円）
+- フォトカプラ(TLP785)
+- モータドライバ(TA7291P)
+- サーボモータ(SG-90)
+- LED、コンデンサー、抵抗、タクトスイッチ、USBケーブル
  <BR>
  C:\Users\koba_\Documents\Arduino\kobayashi\WebSocketServer_CarControl_softAP799<BR>
  
