@@ -1,8 +1,7 @@
 # ESP8266 WebSocket wifiCar
 Wifi Controlled Car Aruduino Sketch (ESP8266 ESP-WROOM-02)
 
-YouTube
-https://www.youtube.com/watch?v=sxLcQ3OFHZo
+YouTube  https://www.youtube.com/watch?v=sxLcQ3OFHZo
 
 WiFiチップESP8266搭載のWiFiモジュールEPS-WROOM-02でWiFiラジコンカーを作ってみた。
 
@@ -36,7 +35,7 @@ WiFiチップESP8266搭載のWiFiモジュールEPS-WROOM-02でWiFiラジコン�
 - ＵＳＢシリアル変換モジュール(秋月で600円）
 - フォトカプラ(TLP785)
 - モータドライバ(TA7291P)
-- サーボモータ(SG-90)
+- サーボモーター(SG-90)
 - LED、コンデンサー、抵抗、タクトスイッチ、USBケーブル  
 
  C:\Users\koba_\Documents\Arduino\kobayashi\WebSocketServer_CarControl_softAP799  
