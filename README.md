@@ -1,7 +1,7 @@
 # ESP8266 WebSocket wifiCar
 Wifi Controlled Car Aruduino Sketch (ESP8266 ESP-WROOM-02)
 
-YouTube  https://www.youtube.com/watch?v=sxLcQ3OFHZo
+YouTube  https://youtu.be/sxLcQ3OFHZo
 
 ESP8266搭載のEPS-WROOM-02でWiFiラジコンカーを作ってみた。
 
